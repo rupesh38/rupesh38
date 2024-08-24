@@ -1,5 +1,5 @@
 **Welcome to My Healthcare IT Integration Repository**
-**Introduction**
+
 Hello! 👋 I'm Rupesh, a seasoned Healthcare data Integration Consultant with over 14 years of experience in the field. This repository is a collection of my scripts, ideas, common issues, and solutions that I've encountered throughout my career. My primary focus is on integrating healthcare systems using standards like HL7, FHIR, XML, and other related technologies.
 
 **What You’ll Find Here**
@@ -14,6 +14,6 @@ Feel free to browse through the different sections to find scripts, tips, and re
 I believe in the power of collaboration. If you have improvements, fixes, or new ideas, don't hesitate to contribute. Check out the CONTRIBUTING.md for guidelines on how to get started.
 
 **Get in Touch**
-If you have any questions, feedback, or just want to connect, feel free to reach out via LinkedIn or email. I'm always open to discussing new ideas and opportunities in the field of healthcare IT.
+If you have any questions, feedback, or just want to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rupesh-siddamshetty-95006690/). I'm always open to discussing new ideas and opportunities in the field of healthcare IT.
 
 Thank you for visiting, and I hope you find this repository helpful!
